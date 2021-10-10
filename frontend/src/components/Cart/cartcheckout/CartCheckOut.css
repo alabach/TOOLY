@@ -1,0 +1,45 @@
+.CartCheckOut-conteneur {
+  margin-top: 50px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.CartCheckOut-bt {
+  margin-right: 15px;
+}
+
+.CartCheckOut-btnn {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+
+.CartCheckOut-circle-icon-select {
+  background: #fbbb0c;
+  width: 60px;
+  height: 55px;
+  border-radius: 30%;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  padding: 10px;
+}
+.CartCheckOut-circle-icon {
+  background: grey;
+  width: 60px;
+  height: 55px;
+  border-radius: 30%;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  padding: 5px;
+}
+.CartCheckOut-vertical-line2 {
+  display: inline-block;
+  height: 8px;
+  width: 100px;
+  border-top: 2px solid;
+}

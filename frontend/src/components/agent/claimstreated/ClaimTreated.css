@@ -1,0 +1,38 @@
+.claims-treated {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.claims-treated h1 {
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  border-bottom: 2px solid black;
+}
+
+.claims-treated Table {
+  margin-top: 250px;
+  width: 90%;
+  border: 1px black solid;
+  box-shadow: 1px 5px 8px black;
+}
+
+.claims-treated Table thead {
+  background-color: #fbbb0c;
+}
+
+.claims-treated th {
+  text-transform: capitalize;
+}
+
+.claims-treated .claim-id {
+  font-weight: 700;
+  color: black;
+}
+
+.claims-treated .claim-id:hover {
+  color: #fbbb0c;
+  text-decoration: none;
+}

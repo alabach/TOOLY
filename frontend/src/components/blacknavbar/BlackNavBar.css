@@ -1,0 +1,60 @@
+.tooly-nav-bar {
+  background-color: black;
+  height: 80px;
+  max-height: 80px;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.tooly-nav-bar .image {
+  width: 80px;
+  height: 80px;
+  margin-left: 10%;
+}
+
+.tooly-nav-bar img {
+  width: 100%;
+  height: 100%;
+}
+
+.tooly-nav-bar ul {
+  min-width: 50%;
+  width: 50%;
+  display: flex;
+  height: 100%;
+  margin: 0;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 30%;
+}
+
+.tooly-nav-bar ul li {
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.tooly-nav-bar ul li:hover,
+.tooly-nav-bar .links:hover {
+  background-color: #fbbb0c;
+  color: black;
+}
+
+.tooly-nav-bar ul li:hover .active {
+  color: black;
+}
+
+.tooly-nav-bar .links {
+  color: inherit;
+  font-weight: 00;
+  font-size: 22px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.tooly-nav-bar .active {
+  color: #fbbb0c;
+}

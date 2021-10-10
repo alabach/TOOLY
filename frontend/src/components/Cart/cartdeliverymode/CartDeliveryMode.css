@@ -1,0 +1,64 @@
+.CartDeliveryMode-conteneur {
+  margin-top: 50px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+}
+.CartDeliveryMode-bt {
+  margin-right: 15px;
+}
+
+.CartDeliveryMode-btnn {
+  margin-top: 30px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.CartDeliveryMode-circle-icon-select {
+  background: #fbbb0c;
+  width: 60px;
+  height: 55px;
+  border-radius: 30%;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  padding: 10px;
+}
+.CartDeliveryMode-circle-icon {
+  background: grey;
+  width: 60px;
+  height: 55px;
+  border-radius: 30%;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  padding: 5px;
+}
+.CartDeliveryMode-vertical-line2 {
+  display: inline-block;
+  height: 8px;
+  width: 100px;
+  border-top: 2px solid;
+}
+
+.CartDeliveryMode-btnPay {
+  display: block;
+  width: 300px;
+  height: 100px;
+}
+.CartDeliveryMode-Icon {
+  font-size: 70px;
+}
+
+.CartDeliveryMode-btndelivery {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}

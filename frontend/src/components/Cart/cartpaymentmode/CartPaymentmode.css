@@ -1,0 +1,63 @@
+.CartPaymentMode-conteneur {
+  margin-top: 50px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+}
+
+.CartPaymentMode-bt {
+  margin-right: 15px;
+}
+
+.CartPaymentMode-btnn {
+  margin-top: 50px;
+  display: flex;
+  justify-content: flex-end;
+}
+.CartPaymentMode-circle-icon-select {
+  background: #fbbb0c;
+  width: 60px;
+  height: 55px;
+  border-radius: 30%;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  padding: 10px;
+}
+.CartPaymentMode-circle-icon {
+  background: grey;
+  width: 60px;
+  height: 55px;
+  border-radius: 30%;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  padding: 5px;
+}
+.CartPaymentMode-vertical-line2 {
+  display: inline-block;
+  height: 8px;
+  width: 100px;
+  border-top: 2px solid;
+}
+
+.CartPaymentMode-btn {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.CartPaymentMode-Icon {
+  font-size: 70px;
+}
+.CartPaymentMode-btnPay {
+  display: block;
+  width: 300px;
+  height: 100px;
+}

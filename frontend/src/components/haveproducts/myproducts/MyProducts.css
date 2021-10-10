@@ -1,0 +1,76 @@
+.myproducts-title {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 28px;
+  text-transform: uppercase;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+  border-bottom: 1px solid black;
+}
+
+.my-products-all-search-and-add-button {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.myproducts-search {
+  display: block;
+  width: 20%;
+  height: 40px;
+  font-size: 22px;
+  border: 1px solid black;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.my-products-button-add {
+  width: 20%;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.list-my-products {
+  margin-top: 40px;
+}
+
+.list-my-products .card-image {
+  border-radius: 0;
+  width: 100%;
+  height: 250px;
+}
+
+.list-my-products .card {
+  margin-bottom: 40px;
+  border: 4px solid #fbbb0c;
+  border-radius: 0;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.list-my-products .card-labels {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.list-my-products .card-body {
+  background-color: grey;
+  color: white;
+}
+
+.list-my-products .card-button {
+  margin-top: 10px;
+  text-transform: uppercase;
+  width: 60%;
+}
+
+::placeholder {
+  padding-left: 20px;
+  color: #fbbb0c;
+  font-weight: 100;
+  letter-spacing: 4px;
+  font-size: 18px;
+}

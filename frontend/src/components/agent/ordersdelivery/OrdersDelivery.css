@@ -1,0 +1,38 @@
+.delivery-orders {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.delivery-orders h1 {
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  border-bottom: 2px solid black;
+}
+
+.delivery-orders Table {
+  margin-top: 250px;
+  width: 90%;
+  border: 1px black solid;
+  box-shadow: 1px 5px 8px black;
+}
+
+.delivery-orders Table thead {
+  background-color: #fbbb0c;
+}
+
+.delivery-orders th {
+  text-transform: capitalize;
+}
+
+.delivery-orders .order-id {
+  font-weight: 700;
+  color: black;
+}
+
+.delivery-orders .order-id:hover {
+  color: #fbbb0c;
+  text-decoration: none;
+}

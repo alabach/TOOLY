@@ -1,0 +1,45 @@
+.CartShppingAddress-conteneur {
+  margin-top: 50px;
+}
+
+h2 {
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.CartShppingAddress-btnn {
+  margin-top: 30px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.CartShppingAddress-circle-icon-select {
+  background: #fbbb0c;
+  width: 60px;
+  height: 55px;
+  border-radius: 30%;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  padding: 10px;
+}
+.CartShppingAddress-circle-icon {
+  background: grey;
+  width: 60px;
+  height: 55px;
+  border-radius: 30%;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+  padding: 5px;
+}
+.CartShppingAddress-vertical-line2 {
+  display: inline-block;
+  height: 8px;
+  width: 100px;
+  border-top: 2px solid;
+}
+.bt {
+  margin-right: 15px;
+}

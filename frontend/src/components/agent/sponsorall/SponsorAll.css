@@ -1,0 +1,48 @@
+.sponsor-all {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+}
+
+.sponsor-all h1 {
+  font-weight: bold;
+  font-size: 30px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  border-bottom: 2px solid black;
+}
+
+.sponsor-all Table {
+  margin-top: 250px;
+  width: 90%;
+  border: 1px black solid;
+  box-shadow: 1px 5px 8px black;
+}
+
+.sponsor-all Table thead {
+  background-color: #fbbb0c;
+}
+
+.sponsor-all th {
+  text-transform: capitalize;
+}
+
+.sponsor-all .bill-id {
+  font-weight: 700;
+  color: black;
+}
+
+.sponsor-all .bill-id:hover {
+  color: #fbbb0c;
+  text-decoration: none;
+}
+
+.sponsor-all-inputfilter {
+  padding: 5px;
+  margin-left: 20px;
+}
